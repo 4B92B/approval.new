@@ -4,7 +4,7 @@ import time
 import sys
 
 print("""
-subprocess.check_output([*am* , *start* , *https://github.com/4B92B/approval.new/blob/main/Approval.txt"])
+subprocess.check_output([*am* , *start* , *
 \033[1;31m ██████╗░█_█╗░░░░░░█████╗░░█████╗░██╗░░██╗
 ██╔══██╗██║░░░░░██╔══██╗██╔══██╗██║░██╔╝
 ██████╦╝██║░░░░░███████║██║░░╚═╝█████═╝░
